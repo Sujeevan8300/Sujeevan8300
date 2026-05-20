@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 - 🔧 Strong focus on backend architecture & enterprise systems
 - ⚙️ Experienced in designing scalable REST APIs
@@ -16,30 +16,30 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
-### 🚀 Backend
+###  Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-4CAF50?style=for-the-badge)
 
-### 🎨 Frontend
+###  Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
-### 🗄️ Databases
+###  Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### ☁️ Cloud
+###  Cloud
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 ---
 
-## 💼 Professional Experience
+##  Professional Experience
 
-### 🏢 Software Engineer – Invicta Innovations (Pvt.) Ltd.
+###  Software Engineer – Invicta Innovations (Pvt.) Ltd.
 - 🚀 Built scalable full-stack applications using **Spring Boot & React**
 - 🧩 Designed REST APIs with layered architecture (Controller → Service → Repository)
 - ⚡ Implemented Redux Toolkit for scalable state management
@@ -49,7 +49,7 @@
 
 ---
 
-### 🧑‍💻 Backend Team Lead Intern – SGIC
+###  Backend Team Lead Intern – SGIC
 - 👨‍🏫 Led backend API development team
 - 🏗️ Designed system architecture & database schemas (ERD)
 - 🔐 Built JWT authentication architecture
@@ -60,9 +60,9 @@
 
 ---
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🏨 Hotel Management System (Enterprise Application)
+###  Hotel Management System (Enterprise Application)
 
 - 🧩 Full-stack system using Spring Boot + React + MySQL
 - 🔐 JWT Authentication with Spring Security
@@ -72,7 +72,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sujeevan8300&show_icons=true&theme=tokyonight" />
@@ -84,7 +84,7 @@
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:sujeevan8300@gmail.com">
